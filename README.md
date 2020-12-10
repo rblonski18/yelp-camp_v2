@@ -32,26 +32,10 @@
 * Flash messages responding to users' interaction with the app
 
 * Responsive web design
-
-### Custom Enhancements
-
-* Update campground photos when editing campgrounds
-
-* Update personal information on profile page
-
-* Improve image load time on the landing page using Cloudinary
-
-* Use Helmet to strengthen security
  
 ## Getting Started
 
 > This app contains API secrets and passwords that have been hidden deliberately, so the app cannot be run with its features on your local machine. However, feel free to clone this repository if necessary.
-
-### Clone or download this repository
-
-```sh
-git clone https://github.com/lucasweng/yelp-camp.git
-```
 
 ### Install dependencies
 
