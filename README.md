@@ -77,4 +77,4 @@ yarn install
 
 ## License
 
-#### [MIT](./LICENSE)ocoding
+#### [MIT](./LICENSE)
